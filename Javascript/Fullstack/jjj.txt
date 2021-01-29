@@ -1,0 +1,10 @@
+let edad = Number(prompt("Ingrese edad", "Inserte aquí su edad"));
+if (14 <= edad <= 90) {
+ console.log(true);
+}
+
+let edad = Number(prompt("Ingrese edad", "Inserte aquí su edad"));
+if !((edad<=14) && (90<=edad)) {
+ console.log(true);
+}
+
