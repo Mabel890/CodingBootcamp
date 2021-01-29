@@ -1,9 +1,0 @@
-let What's the "official" name of JavaScript?
-if ECMAScript {
- console.log(Right!)
-}else {
- console.log(You don't know? "ECMAScript"!)
-}
-
-let pregunta = prompt("What's the "official" name of JavaScript?", "Insert you answer here");
-let respuesta = ()
